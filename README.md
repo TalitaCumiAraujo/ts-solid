@@ -1,4 +1,4 @@
-# SOLID
+# Os Princípios SÓLIDOS
 - S : Single-responsibility Principle (Princípio da responsabilidade única)
 Uma classe deve ter um e apenas um motivo para mudar, o que significa que uma classe deve ter apenas uma função.
 - O : Open-closed Principle (Princípio do aberto-fechado)
